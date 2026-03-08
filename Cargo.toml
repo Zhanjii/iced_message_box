@@ -1,0 +1,16 @@
+[package]
+name = "iced_message_box"
+version = "0.1.0"
+edition = "2021"
+description = "A themed message box overlay widget for Iced"
+license = "MIT"
+repository = "https://github.com/zhanjii/iced_message_box"
+keywords = ["iced", "dialog", "messagebox", "modal", "alert"]
+categories = ["gui"]
+exclude = ["scripts/"]
+
+[dependencies]
+iced = "0.14"
+
+[dev-dependencies]
+iced = "0.14"
