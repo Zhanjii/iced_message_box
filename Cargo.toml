@@ -1,6 +1,6 @@
 [package]
 name = "iced_message_box"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "A themed message box overlay widget for Iced"
 license = "MIT"

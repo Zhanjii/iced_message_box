@@ -7,11 +7,11 @@ A themed message box overlay widget for [Iced](https://github.com/iced-rs/iced).
 
 No full-featured themed message box exists in the Iced ecosystem — this fills that gap. Inspired by [CTkMessagebox](https://github.com/Akascape/CTkMessagebox) for Python/CustomTkinter.
 
-![Gallery](assets/gallery.png)
+![Gallery](https://raw.githubusercontent.com/Zhanjii/iced_message_box/master/assets/gallery.png)
 
 | Glyph Picker | Overlay Dialog |
 |---|---|
-| ![Glyph Picker](assets/glyph_picker.png) | ![Overlay](assets/overlay.png) |
+| ![Glyph Picker](https://raw.githubusercontent.com/Zhanjii/iced_message_box/master/assets/glyph_picker.png) | ![Overlay](https://raw.githubusercontent.com/Zhanjii/iced_message_box/master/assets/overlay.png) |
 
 ## Features
 
