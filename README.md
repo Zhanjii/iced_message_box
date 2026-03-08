@@ -7,6 +7,12 @@ A themed message box overlay widget for [Iced](https://github.com/iced-rs/iced).
 
 No full-featured themed message box exists in the Iced ecosystem — this fills that gap. Inspired by [CTkMessagebox](https://github.com/Akascape/CTkMessagebox) for Python/CustomTkinter.
 
+![Gallery](assets/gallery.png)
+
+| Glyph Picker | Overlay Dialog |
+|---|---|
+| ![Glyph Picker](assets/glyph_picker.png) | ![Overlay](assets/overlay.png) |
+
 ## Features
 
 - Five icon types: Info, Success, Warning, Error, Question
@@ -26,9 +32,7 @@ Add to your `Cargo.toml`:
 
 ```toml
 [dependencies]
-iced_message_box = { path = "../iced_message_box" }
-# or from crates.io once published:
-# iced_message_box = "0.1"
+iced_message_box = "0.1"
 ```
 
 ### Show a dialog overlay
